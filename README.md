@@ -57,3 +57,4 @@ Conecte-se com a gente e descubra o potencial de uma gestão automatizada e inte
 
 Este é um excelente momento para explorar os benefícios e detalhes da Mari IA. Vamos impulsionar seu negócio com tecnologia de ponta! 🚀
 
+![InovaçãoNaSaúde-InteligênciaArtificial-GestãoHospitalar-Atendimento24Horas-AutomaçãoNaSaúde-EficiênciaNosNegócios](https://github.com/user-attachments/assets/3499b256-59e0-4937-900d-fb4ccfe5d3fa)
