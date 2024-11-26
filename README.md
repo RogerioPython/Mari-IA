@@ -2,7 +2,9 @@ Mari IA – Transformando o Atendimento com Automação e Inteligência Artifici
 Seja bem-vindo ao repositório oficial da Mari IA, uma solução inovadora que utiliza Inteligência Artificial e Automação Avançada para transformar o atendimento e a gestão de empresas.
 
 Este repositório apresenta as funcionalidades, os benefícios e os casos de uso da Mari IA, projetada para otimizar processos, reduzir custos e melhorar a experiência do cliente em diferentes segmentos, especialmente na área da saúde.
-🌐 Site: Acesse Agora: https://automationflowpro.mydurable.com/
+
+Acesse o site Agora e assista o vídeo da Mari IA em ação!
+🌐 Site:  https://automationflowpro.mydurable.com/
 
 📌 Sobre a Mari IA
 A Mari IA é uma assistente virtual inteligente focada em:
@@ -55,4 +57,3 @@ Conecte-se com a gente e descubra o potencial de uma gestão automatizada e inte
 
 Este é um excelente momento para explorar os benefícios e detalhes da Mari IA. Vamos impulsionar seu negócio com tecnologia de ponta! 🚀
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1032975399?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IA MARI AGENDAMENTO"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
